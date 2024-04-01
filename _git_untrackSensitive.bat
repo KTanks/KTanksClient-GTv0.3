@@ -1,0 +1,1 @@
+git update-index --assume-unchanged ./socket.cfg
